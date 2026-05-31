@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\product-ui\\src\\pages\\services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:product-ui\\src\\pages\\services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\product-ui\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:product-ui\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\product-ui\\src\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:product-ui\\src\\pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\product-ui\\src\\pages\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:product-ui\\src\\pages\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\product-ui\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:product-ui\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\product-ui\\src\\layout\\mainlayout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:product-ui\\src\\layout\\mainlayout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\product-ui\\src\\reportwebvitals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:product-ui\\src\\reportwebvitals.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\product-ui\\src\\pages\\addproduct.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:product-ui\\src\\pages\\addproduct.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|c:\\users\\abhishek\\source\\repos\\productserviceapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB5F3700-6F58-4143-B653-BD9C74B53570}|ProductServiceAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:23:08.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Services.js",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\Pages\\Services.js",
+              "RelativeDocumentMoniker": "product-ui\\src\\Pages\\Services.js",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\Pages\\Services.js",
+              "RelativeToolTip": "product-ui\\src\\Pages\\Services.js",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwE0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-22T08:25:39.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.js",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\Pages\\Products.js",
+              "RelativeDocumentMoniker": "product-ui\\src\\Pages\\Products.js",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\Pages\\Products.js",
+              "RelativeToolTip": "product-ui\\src\\Pages\\Products.js",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-22T08:24:52.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\Pages\\Dashboard.js",
+              "RelativeDocumentMoniker": "product-ui\\src\\Pages\\Dashboard.js",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\Pages\\Dashboard.js",
+              "RelativeToolTip": "product-ui\\src\\Pages\\Dashboard.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-22T08:23:03.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainLayout.js",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\layout\\MainLayout.js",
+              "RelativeDocumentMoniker": "product-ui\\src\\layout\\MainLayout.js",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\layout\\MainLayout.js",
+              "RelativeToolTip": "product-ui\\src\\layout\\MainLayout.js",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-22T07:13:06.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\App.js",
+              "RelativeDocumentMoniker": "product-ui\\src\\App.js",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\App.js",
+              "RelativeToolTip": "product-ui\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-22T06:19:46.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:02:41.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:48:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:52:18.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddProduct.js",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\Pages\\AddProduct.js",
+              "RelativeDocumentMoniker": "product-ui\\src\\Pages\\AddProduct.js",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\Pages\\AddProduct.js",
+              "RelativeToolTip": "product-ui\\src\\Pages\\AddProduct.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-22T08:26:20.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:14:54.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:18:29.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-15T12:33:49.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-22T11:45:57.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\index.js",
+              "RelativeDocumentMoniker": "product-ui\\src\\index.js",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\index.js",
+              "RelativeToolTip": "product-ui\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-22T08:56:06.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "reportWebVitals.js",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\reportWebVitals.js",
+              "RelativeDocumentMoniker": "product-ui\\src\\reportWebVitals.js",
+              "ToolTip": "C:\\Users\\Abhishek\\source\\repos\\ProductServiceAPI\\product-ui\\src\\reportWebVitals.js",
+              "RelativeToolTip": "product-ui\\src\\reportWebVitals.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-22T10:15:23.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
